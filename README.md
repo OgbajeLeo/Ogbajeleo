@@ -65,7 +65,7 @@ I’m always open to new opportunities and collaborations. Whether you’re inte
 ### Weekly Development Breakdown
 
 <!-- Add a dynamic graph showing your weekly coding activity -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ogbajeleo&theme=radical&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/c9b8dcf5-8034-41bd-aef4-c4796cc26383.svg)](https://wakatime.com/@c9b8dcf5-8034-41bd-aef4-c4796cc26383)
 
 ---
 
