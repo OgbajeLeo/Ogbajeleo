@@ -1,6 +1,5 @@
 # 👋 Hello,  I'm Ogbaje Leo.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ogbajeleo&color=brightgreen&style=flat-square)
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🌟 About Me
@@ -32,7 +31,6 @@ I believe in the power of clean, efficient code and the impact of intuitive desi
 
 ## 🌱 What I'm Currently Learning
 
-![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 - **Advanced TypeScript**: Enhancing my TypeScript skills by diving deeper into generics, type guards, and advanced patterns.
 - **Web Performance Optimization**: Learning techniques to make websites faster, including image optimization, lazy loading, and caching strategies.
@@ -42,7 +40,6 @@ I believe in the power of clean, efficient code and the impact of intuitive desi
 
 ## 💬 Let's Collaborate!
 
-![Collaboration GIF](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif)
 
 I’m always open to new opportunities and collaborations. Whether you’re interested in contributing to open-source projects, building a startup, or just discussing the latest trends in tech, feel free to reach out!
 
@@ -51,6 +48,27 @@ I’m always open to new opportunities and collaborations. Whether you’re inte
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardaromeh@gmail.com)
 
 ---
+## 📊 GitHub Analytics
+
+### My Contributions
+
+![Ogbaje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogbajeleo&show_icons=true&theme=radical&count_private=true)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogbajeleo&layout=compact&theme=radical&langs_count=6)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ogbajeleo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+### Weekly Development Breakdown
+
+<!-- Add a dynamic graph showing your weekly coding activity -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ogbajeleo&theme=radical&layout=compact)
+
+---
+
 
 ## 📈 GitHub Stats
 
@@ -61,7 +79,6 @@ I’m always open to new opportunities and collaborations. Whether you’re inte
 
 ## ⚡ Fun Fact
 
-![Fun Fact GIF](https://media.giphy.com/media/3o6Zt8zdG7sQPB6Erm/giphy.gif)
 
 When I'm not coding, you'll probably find me exploring the latest tech gadgets, experimenting with new recipes in the kitchen, or hiking through nature.
 
