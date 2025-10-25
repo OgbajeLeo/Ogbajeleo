@@ -1,4 +1,4 @@
-# 👋 Hello,  I'm Ogbaje Leo.
+# 👋 Hello,  I'm Ogbaje Leo Arome.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
